@@ -1,5 +1,5 @@
 # snyk-exercise
-Written in NodeJs with express-js
+Written in NodeJs with Express
 
 ## Instructions
 1. Make sure Node v10.15.3 (or newer) is installed on your machine
